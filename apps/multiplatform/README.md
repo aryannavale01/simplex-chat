@@ -139,3 +139,4 @@ Note that this is not an issue for the app store build of the app as this is sig
 4. Update the color to black (#FF000000) and the size to "24.dp", as in other icons.
 
 For example, this is [add reaction icon](https://fonts.google.com/icons?selected=Material+Symbols+Rounded:add_reaction:FILL@0;wght@300;GRAD@-25;opsz@24&icon.style=Rounded).
+"# simplex-chat-app" 
